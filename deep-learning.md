@@ -1,3 +1,17 @@
+## Illustrated Machine Learning cheatsheets covering Stanford's CS 229 class
+https://www.reddit.com/r/MachineLearning/comments/98wrkw/illustrated_machine_learning_cheatsheets_covering/
+
+Set of illustrated Machine Learning cheatsheets covering the content of Stanford's CS 229 class:
+
+  Deep Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html
+
+  Supervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html
+
+  Unsupervised Learning: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html
+
+  Tips and tricks: https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html
+
+
 ## Activation Functions: Neural Networks
 Sigmoid, tanh, Softmax, ReLU, Leaky ReLU EXPLAINED !!!
 
